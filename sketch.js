@@ -1,7 +1,7 @@
 var font;
 var vehicles = [];
 let fontSize = 180;
-let words = ['LU', 'LUM', 'MUSM', '143'];
+let words = ['MINA', 'I LOVE U', 'SAYANG', 'I <3 U'];
 let item = 0;
 
 function preload() {
